@@ -1,0 +1,24 @@
+
+state={
+	id=1158
+	name="STATE_1158"
+
+	history={
+		owner = IBR
+		add_core_of = MOR
+		add_claim_by = TRZ
+		victory_points = { 14296 1 }
+		victory_points = { 14282 1 }
+		buildings = {
+			infrastructure = 1
+			radar_station = 1
+		}
+	}
+
+	provinces={
+		13219 14275 14289 14290 14296 14320 14282
+	}
+	manpower=13352
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

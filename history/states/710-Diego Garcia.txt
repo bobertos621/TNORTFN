@@ -1,0 +1,22 @@
+state={
+	id=710
+	name="STATE_710"
+	manpower=1000
+	state_category = tiny_island
+	
+	history={
+		owner = AST
+		add_core_of = AST
+		buildings = {
+			infrastructure = 2
+			air_base = 1
+			13019 = {
+				naval_base = 1
+			}
+		}
+	}
+	
+	provinces={
+		13019 
+	}
+}

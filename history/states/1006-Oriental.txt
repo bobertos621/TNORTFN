@@ -1,0 +1,22 @@
+state={
+	id=1006
+	name="STATE_1006"
+	provinces={
+		3991 4116 
+	}
+	history={
+		owner = FLA
+		add_core_of = FLA
+        set_demilitarized_zone = yes
+		
+		#add_core_of = MOR
+		add_core_of = ALG
+		buildings = {
+			infrastructure = 3
+		}
+		victory_points = { 4116 2 }
+	}
+	manpower=586470
+	buildings_max_level_factor=1.000
+	state_category = rural
+}

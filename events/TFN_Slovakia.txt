@@ -1,0 +1,350 @@
+###################
+## Slovak Events ##
+###################
+
+add_namespace = SLO_start
+add_namespace = SLO_GCW
+add_namespace = SLO_leadership_crisis
+add_namespace = Slovakia_News
+
+country_event = { 
+	id = SLO_start.1
+	title = SLO_start.1.t
+	desc = SLO_start.1.desc
+	#picture = GFX_
+	
+	immediate = {
+		log = "[GetDateText]: [Root.GetName]: event SLO_start.1"
+	}
+
+	is_triggered_only = yes
+
+	option = {
+		name = SLO_start.1.a
+	}
+}
+
+country_event = { 
+	id = SLO_start.2
+	title = SLO_start.2.t
+	desc = SLO_start.2.desc
+	picture = GFX_report_event_generic_cigarette_butt
+	
+	immediate = {
+		log = "[GetDateText]: [Root.GetName]: event SLO_start.2"
+	}
+
+	is_triggered_only = yes
+
+	option = {
+		name = SLO_start.2.a
+		custom_effect_tooltip = SLO_start.2.tt
+	}
+}
+
+country_event = { 
+	id = SLO_start.3
+	title = SLO_start.3.t
+	desc = SLO_start.3.desc
+	#picture = GFX_
+	
+	immediate = {
+		log = "[GetDateText]: [Root.GetName]: event SLO_start.3"
+	}
+
+	is_triggered_only = yes
+
+	option = {
+		name = SLO_start.3.a
+	}
+}
+
+country_event = { 
+	id = SLO_start.4
+	title = SLO_start.4.t
+	desc = SLO_start.4.desc
+	#picture = GFX_
+	
+	immediate = {
+		log = "[GetDateText]: [Root.GetName]: event SLO_start.4"
+	}
+
+	is_triggered_only = yes
+
+	option = {
+		name = SLO_start.4.a
+	}
+}
+
+country_event = { 
+	id = SLO_start.5
+	title = SLO_start.5.t
+	desc = SLO_start.5.desc
+	#picture = GFX_
+	
+	immediate = {
+		log = "[GetDateText]: [Root.GetName]: event SLO_start.5"
+	}
+
+	is_triggered_only = yes
+
+	option = {
+		name = SLO_start.5.a
+	}
+}
+
+country_event = { 
+	id = SLO_start.6
+	title = SLO_start.6.t
+	desc = SLO_start.6.desc
+	#picture = GFX_
+	
+	immediate = {
+		log = "[GetDateText]: [Root.GetName]: event SLO_start.6"
+	}
+
+	is_triggered_only = yes
+
+	option = {
+		name = SLO_start.6.a
+	}
+}
+
+country_event = { 
+	id = SLO_start.7
+	title = SLO_start.7.t
+	desc = SLO_start.7.desc
+	#picture = GFX_
+	
+	immediate = {
+		log = "[GetDateText]: [Root.GetName]: event SLO_start.7"
+	}
+
+	is_triggered_only = yes
+
+	option = {
+		name = SLO_start.7.a
+	}
+}
+
+country_event = { 
+	id = SLO_start.8
+	title = SLO_start.8.t
+	desc = SLO_start.8.desc
+	#picture = GFX_
+	
+	immediate = {
+		log = "[GetDateText]: [Root.GetName]: event SLO_start.8"
+	}
+
+	is_triggered_only = yes
+
+	option = {
+		name = SLO_start.8.a
+	}
+}
+
+country_event = { 
+	id = SLO_start.9
+	title = SLO_start.9.t
+	desc = SLO_start.9.desc
+	#picture = GFX_
+	
+	immediate = {
+		log = "[GetDateText]: [Root.GetName]: event SLO_start.9"
+	}
+
+	is_triggered_only = yes
+
+	option = {
+		name = SLO_start.9.a
+	}
+}
+
+country_event = { 
+	id = SLO_start.10
+	title = SLO_start.10.t
+	desc = SLO_start.10.desc
+	#picture = GFX_
+	
+	immediate = {
+		log = "[GetDateText]: [Root.GetName]: event SLO_start.10"
+	}
+
+	is_triggered_only = yes
+
+	option = {
+		name = SLO_start.10.a
+	}
+}
+
+country_event = { 
+	id = SLO_start.11
+	title = SLO_start.11.t
+	desc = SLO_start.11.desc
+	#picture = GFX_
+	
+	immediate = {
+		log = "[GetDateText]: [Root.GetName]: event SLO_start.11"
+	}
+
+	is_triggered_only = yes
+
+	option = {
+		name = SLO_start.11.a
+	}
+}
+
+country_event = { 
+	id = SLO_start.12
+	title = SLO_start.12.t
+	desc = SLO_start.12.desc
+	#picture = GFX_
+	
+	immediate = {
+		log = "[GetDateText]: [Root.GetName]: event SLO_start.12"
+	}
+
+	is_triggered_only = yes
+
+	option = {
+		name = SLO_start.12.a
+	}
+}
+
+country_event = { 
+	id = SLO_start.13
+	title = SLO_start.13.t
+	desc = SLO_start.13.desc
+	#picture = GFX_
+	
+	immediate = {
+		log = "[GetDateText]: [Root.GetName]: event SLO_start.13"
+	}
+
+	is_triggered_only = yes
+
+	option = {
+		name = SLO_start.13.a
+	}
+}
+
+country_event = { 
+	id = SLO_start.14
+	title = SLO_start.14.t
+	desc = SLO_start.14.desc
+	#picture = GFX_
+	
+	immediate = {
+		log = "[GetDateText]: [Root.GetName]: event SLO_start.14"
+	}
+
+	is_triggered_only = yes
+
+	option = {
+		name = SLO_start.14.a
+	}
+}
+
+country_event = { 
+	id = SLO_start.15
+	title = SLO_start.15.t
+	desc = SLO_start.15.desc
+	#picture = GFX_
+	
+	immediate = {
+		log = "[GetDateText]: [Root.GetName]: event SLO_start.15"
+	}
+
+	is_triggered_only = yes
+
+	option = {
+		name = SLO_start.15.a
+	}
+}
+
+country_event = { 
+	id = SLO_start.16
+	title = SLO_start.16.t
+	desc = SLO_start.16.desc
+	#picture = GFX_
+	
+	immediate = {
+		log = "[GetDateText]: [Root.GetName]: event SLO_start.16"
+	}
+
+	is_triggered_only = yes
+
+	option = {
+		name = SLO_start.16.a
+	}
+}
+
+country_event = { 
+	id = SLO_start.17
+	title = SLO_start.17.t
+	desc = SLO_start.17.desc
+	#picture = GFX_
+	
+	immediate = {
+		log = "[GetDateText]: [Root.GetName]: event SLO_start.17"
+	}
+
+	is_triggered_only = yes
+
+	option = {
+		name = SLO_start.17.a
+	}
+}
+
+country_event = { 
+	id = SLO_start.18
+	title = SLO_start.18.t
+	desc = SLO_start.18.desc
+	#picture = GFX_
+	
+	immediate = {
+		log = "[GetDateText]: [Root.GetName]: event SLO_start.18"
+	}
+
+	is_triggered_only = yes
+
+	option = {
+		name = SLO_start.18.a
+	}
+}
+
+country_event = { 
+	id = SLO_start.19
+	title = SLO_start.19.t
+	desc = SLO_start.19.desc
+	#picture = GFX_
+	
+	immediate = {
+		log = "[GetDateText]: [Root.GetName]: event SLO_start.19"
+	}
+
+	is_triggered_only = yes
+
+	option = {
+		name = SLO_start.19.a
+	}
+}
+
+country_event = { 
+	id = SLO_start.20
+	title = SLO_start.20.t
+	desc = SLO_start.20.desc
+	#picture = GFX_
+	
+	immediate = {
+		log = "[GetDateText]: [Root.GetName]: event SLO_start.20"
+	}
+
+	is_triggered_only = yes
+
+	option = {
+		name = SLO_start.20.a
+	}
+}
+

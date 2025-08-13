@@ -1,0 +1,279 @@
+﻿SLO_INF_1 = {
+	name = "Infantry Divisions"
+
+	for_countries = { SLO }
+
+	can_use = { always = yes }
+
+	division_types = { "infantry" }
+
+	fallback_name = "%d. Pešia Divizia"
+
+	ordered = {
+		1 = { "%d. Pešia Divízia 'Janosík'" }
+		2 = { "%d. Pešia Divízia 'Skultéty'" }
+		3 = { "%d. Pešia Divízia 'Razus'" }
+		4 = { "%d. Pešia Divízia" }
+		5 = { "%d. Pešia Divízia" }
+		6 = { "%d. Pešia Divízia" }
+		7 = { "%d. Pešia Divízia" }
+		8 = { "%d. Pešia Divízia" }
+		9 = { "%d. Pešia Divízia" }
+		10 = { "%d. Pešia Divízia" }
+		11 = { "%d. Pešia Divízia" }
+		12 = { "%d. Pešia Divízia" }
+		13 = { "%d. Pešia Divízia" }
+		14 = { "%d. Pešia Divízia" }
+		15 = { "%d. Pešia Divízia" }
+		16 = { "%d. Pešia Divízia" }
+		17 = { "%d. Pešia Divízia" }
+		18 = { "%d. Pešia Divízia" }
+		19 = { "%d. Pešia Divízia" }
+		20 = { "%d. Pešia Divízia" }
+	}
+}
+
+SLO_CAV_01 = {
+	name = "Cavalry Divisions"
+
+	for_countries = { SLO }
+
+	can_use = { always = yes }
+
+	division_types = { "cavalry" }
+
+	fallback_name = "%d. Jazdecká Divízia"
+
+	ordered = {
+		1 = { "%d. Jazdecká Divízia" }
+		2 = { "%d. Jazdecká Divízia" }
+		3 = { "%d. Jazdecká Divízia" }
+		4 = { "%d. Jazdecká Divízia" }
+		5 = { "%d. Jazdecká Divízia" }
+		6 = { "%d. Jazdecká Divízia" }
+		7 = { "%d. Jazdecká Divízia" }
+		8 = { "%d. Jazdecká Divízia" }
+		9 = { "%d. Jazdecká Divízia" }
+		10 = { "%d. Jazdecká Divízia" }
+	}
+}
+
+SLO_MOT_1 = {
+	name = "Motorized Divisions"
+
+	for_countries = { SLO }
+
+	can_use = { always = yes }
+
+	division_types = { "motorized" }
+
+	fallback_name = "%d. Motorizovaná Divízia"
+
+	ordered = {
+		1 = { "%d. Motorizovaná Divízia" }
+		2 = { "%d. Motorizovaná Divízia" }
+		3 = { "%d. Motorizovaná Divízia" }
+		4 = { "%d. Motorizovaná Divízia" }
+		5 = { "%d. Motorizovaná Divízia" }
+		6 = { "%d. Motorizovaná Divízia" }
+		7 = { "%d. Motorizovaná Divízia" }
+		8 = { "%d. Motorizovaná Divízia" }
+		9 = { "%d. Motorizovaná Divízia" }
+		10 = { "%d. Motorizovaná Divízia" }
+	}
+}
+
+SLO_ARM_01 = {
+	name = "Armoured Divisions"
+
+	for_countries = { SLO }
+
+	can_use = { always = yes }
+
+	division_types = { "MBT" }
+
+	fallback_name = "%d. Tanková Divízia"
+
+	ordered = {
+		1 = { "%d. Tanková Divízia" }
+		2 = { "%d. Tanková Divízia" }
+		3 = { "%d. Tanková Divízia" }
+		4 = { "%d. Tanková Divízia" }
+		5 = { "%d. Tanková Divízia" }
+		6 = { "%d. Tanková Divízia" }
+		7 = { "%d. Tanková Divízia" }
+		8 = { "%d. Tanková Divízia" }
+		9 = { "%d. Tanková Divízia" }
+		10 = { "%d. Tanková Divízia" }
+	}
+}
+
+SLO_MEC_01 = {
+	name = "Mechanised Divisions"
+
+	for_countries = { SLO }
+
+	can_use = { always = yes }
+
+	division_types = { "APC" }
+
+	fallback_name = "%d. Mechanizovaná Divízia"
+
+	ordered = {
+		1 = { "%d. Mechanizovaná Divízia" }
+		2 = { "%d. Mechanizovaná Divízia" }
+		3 = { "%d. Mechanizovaná Divízia" }
+		4 = { "%d. Mechanizovaná Divízia" }
+		5 = { "%d. Mechanizovaná Divízia" }
+		6 = { "%d. Mechanizovaná Divízia" }
+		7 = { "%d. Mechanizovaná Divízia" }
+		8 = { "%d. Mechanizovaná Divízia" }
+		9 = { "%d. Mechanizovaná Divízia" }
+		10 = { "%d. Mechanizovaná Divízia" }
+	}
+}
+
+SLO_GAR_01 = {
+	name = "Garrison Divisions"
+
+	for_countries = { SLO }
+
+	can_use = { always = yes }
+
+	division_types = { "infantry" }
+
+	fallback_name = "%d. Pešia Divízia"
+
+	ordered = {
+		1 = { "%d. Pešia Divízia 'Janosík'" }
+		2 = { "%d. Pešia Divízia 'Skultéty'" }
+		3 = { "%d. Pešia Divízia 'Razus'" }
+		4 = { "%d. Pešia Divízia" }
+		5 = { "%d. Pešia Divízia" }
+		6 = { "%d. Pešia Divízia" }
+		7 = { "%d. Pešia Divízia" }
+		8 = { "%d. Pešia Divízia" }
+		9 = { "%d. Pešia Divízia" }
+		10 = { "%d. Pešia Divízia" }
+		11 = { "%d. Pešia Divízia" }
+		12 = { "%d. Pešia Divízia" }
+		13 = { "%d. Pešia Divízia" }
+		14 = { "%d. Pešia Divízia" }
+		15 = { "%d. Pešia Divízia" }
+		16 = { "%d. Pešia Divízia" }
+		17 = { "%d. Pešia Divízia" }
+		18 = { "%d. Pešia Divízia" }
+		19 = { "%d. Pešia Divízia" }
+		20 = { "%d. Pešia Divízia" }
+	}
+}
+
+SLO_MAR_01 = {
+	name = "Marine Divisions"
+
+	for_countries = { SLO }
+
+	can_use = { always = yes }
+
+	division_types = { "marine" }
+
+	fallback_name = "%d. Divízia Námornej Pechoty"
+
+	ordered = {
+		1 = { "%d. Divízia Námornej Pechoty" }
+		2 = { "%d. Divízia Námornej Pechoty" }
+		3 = { "%d. Divízia Námornej Pechoty" }
+		4 = { "%d. Divízia Námornej Pechoty" }
+		5 = { "%d. Divízia Námornej Pechoty" }
+		6 = { "%d. Divízia Námornej Pechoty" }
+		7 = { "%d. Divízia Námornej Pechoty" }
+		8 = { "%d. Divízia Námornej Pechoty" }
+		9 = { "%d. Divízia Námornej Pechoty" }
+		10 = { "%d. Divízia Námornej Pechoty" }
+	}
+}
+
+SLO_MTN_01 = {
+	name = "Mountain Divisions"
+
+	for_countries = { SLO }
+
+	can_use = { always = yes }
+
+	division_types = { "mountaineers" }
+
+	fallback_name = "%d. Horská Divízia"
+
+	ordered = {
+		1 = { "%d. Horská Divízia" }
+		2 = { "%d. Horská Divízia" }
+		3 = { "%d. Horská Divízia" }
+		4 = { "%d. Horská Divízia" }
+		5 = { "%d. Horská Divízia" }
+		6 = { "%d. Horská Divízia" }
+		7 = { "%d. Horská Divízia" }
+		8 = { "%d. Horská Divízia" }
+		9 = { "%d. Horská Divízia" }
+		10 = { "%d. Horská Divízia" }
+	}
+}
+
+SLO_PAR_01 = {
+	name = "Paratrooper Divisions"
+
+	for_countries = { SLO }
+
+	can_use = { always = yes }
+
+	division_types = { "air_assault" }
+
+	fallback_name = "%d. Vysadková Divízia"
+
+	ordered = {
+		1 = { "%d. Vysadková Divízia" }
+		2 = { "%d. Vysadková Divízia" }
+		3 = { "%d. Vysadková Divízia" }
+		4 = { "%d. Vysadková Divízia" }
+		5 = { "%d. Vysadková Divízia" }
+		6 = { "%d. Vysadková Divízia" }
+		7 = { "%d. Vysadková Divízia" }
+		8 = { "%d. Vysadková Divízia" }
+		9 = { "%d. Vysadková Divízia" }
+		10 = { "%d. Vysadková Divízia" }
+	}
+}
+
+SLO_INF_02 = {
+	name = "Infantry Brigades"
+
+	for_countries = { SLO }
+
+	can_use = { always = yes }
+
+	division_types = { "infantry" }
+
+	fallback_name = "%d. Pešia Brigáda"
+
+	ordered = {
+		1 = { "%d. Pešia Brigáda" }
+		2 = { "%d. Pešia Brigáda" }
+		3 = { "%d. Pešia Brigáda" }
+		4 = { "%d. Pešia Brigáda" }
+		5 = { "%d. Pešia Brigáda" }
+		6 = { "%d. Pešia Brigáda" }
+		7 = { "%d. Pešia Brigáda" }
+		8 = { "%d. Pešia Brigáda" }
+		9 = { "%d. Pešia Brigáda" }
+		10 = { "%d. Pešia Brigáda" }
+		11 = { "%d. Pešia Brigáda" }
+		12 = { "%d. Pešia Brigáda" }
+		13 = { "%d. Pešia Brigáda" }
+		14 = { "%d. Pešia Brigáda" }
+		15 = { "%d. Pešia Brigáda" }
+		16 = { "%d. Pešia Brigáda" }
+		17 = { "%d. Pešia Brigáda" }
+		18 = { "%d. Pešia Brigáda" }
+		19 = { "%d. Pešia Brigáda" }
+		20 = { "%d. Pešia Brigáda" }
+	}
+}
